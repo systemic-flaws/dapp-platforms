@@ -15,11 +15,14 @@ At some point, the platform on which the token was issued has problems with deve
 
 You enter the project in order to assist solving those problems.
 
-In order to do that, it is not enough that the software is open (source).
+You think "should be easy, it is open source".
 
-The project must be open. The processes must be open.
+But open source is not enough.
 
-No individual or groups of individuals should have the power to block valid contributions.
+It needs to be an "Open Project", with "Open Processes".
+
+* No individual or groups of individuals should have the power to block valid contributions.
+* No internal repositories, issue-trackers, test-servers etc.
 
 If you think that this is something obvious, something that all platforms have, then be ready for a surprise.
 
