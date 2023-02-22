@@ -8,6 +8,7 @@ Focusing on Systemic Flaws that render the platform non-usable
 | - | - | - |
 | Algorand | Fail | [Flawed Foundation/Inc./Projects/Processes](https://github.com/systemic-flaws/dapp-platforms/issues/8 ) |
 | Solana   | Fail | [Flawed Project/Processes/Information](https://github.com/systemic-flaws/dapp-platforms/issues/9) |
+| Avalanche | Fail | [Flawed Project/Processes/Information](https://github.com/systemic-flaws/dapp-platforms/issues/10) |
 
 ## Evaluation Context
 
@@ -21,7 +22,7 @@ But open source is not enough.
 
 ### Minimum Requirements
 
-* Open Source
+* Open Sources
 * Open Projects
 * Open Processes
 
