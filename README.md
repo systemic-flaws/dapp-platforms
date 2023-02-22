@@ -30,6 +30,7 @@ This would mean things like:
 
 * No individual or groups of individuals should have the power to block valid contributions.
 * No internal repositories, issue-trackers, test-servers etc.
+* No exhausting/blocking slow-speed processes (amateur or even incompetent human factor)
 
 If you think that this is something obvious, something that all crypto/dapp-platforms have, then be ready for a surprise.
 
