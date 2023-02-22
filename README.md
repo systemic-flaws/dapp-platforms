@@ -1,11 +1,13 @@
 # dapp-platform
-Evaluation of dapp-plaforms
+
+## Evaluation of dapp-plaforms
 
 Focusing on Systemic Flaws that render the platform non-usable
 
 ## Platforms
 
-(...)
+| Platform | Repository | Result | Main Reasons, Link |
+| - | - | - | - |
 
 ## Evaluation Context
 
