@@ -6,7 +6,7 @@ Focusing on Systemic Flaws that render the platform non-usable
 
 | Platform |  Result | Main Reasons, Link |
 | - | - | - |
-| Algorand | Fail | [Flawed Foundation/Inc./Projects/Processes](https://github.com/systemic-flaws/dapp-platforms/issues/8 ) |
+| Algorand | Fail | [Heavily Flawed Foundation/Inc./Projects/Processes](https://github.com/systemic-flaws/dapp-platforms/issues/8 ) |
 | Solana   | Fail | [Flawed Project/Processes/Information](https://github.com/systemic-flaws/dapp-platforms/issues/9) |
 | Avalanche | Fail | [Flawed Project/Processes/Information](https://github.com/systemic-flaws/dapp-platforms/issues/10) |
 
