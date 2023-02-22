@@ -6,8 +6,10 @@ Focusing on Systemic Flaws that render the platform non-usable
 
 ## Platforms
 
-| Platform | Repository | Result | Main Reasons, Link |
-| - | - | - | - |
+| Platform |  Result | Main Reasons, Link |
+| - | - | - |
+| Algorand | Fail | [Dysfunctional Foundation/Management/Projects](https://github.com/systemic-flaws/dapp-platforms/issues/8 ) |
+| Solana   | Fail | |
 
 ## Evaluation Context
 
