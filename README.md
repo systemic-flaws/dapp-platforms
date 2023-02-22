@@ -1,7 +1,7 @@
-# sys-flaws
-A Collection of System Flaws
+# dapp-platform
+Evaluation of dapp-plaforms
 
-Focusing on Crypto and the surrounding domains, usually development tools and processes.
+Focusing on Systemic Flaws that render the platform non-usable
 
 ## Platforms
 
