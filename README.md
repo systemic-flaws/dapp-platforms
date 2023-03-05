@@ -8,10 +8,10 @@ Platforms like Algorand, Avalanche and Solana fail.
 
 Framework-Platforms like Substrate fail.
 
-- [Fail: Algorand (Flawed Projects/Processes/Foundation/Inc.)](https://github.com/systemic-flaws/dapp-platforms/issues/8)
-- [Fail: Solana (Flawed Project/Processes/Information)](https://github.com/systemic-flaws/dapp-platforms/issues/9)
-- [Fail: Avalanche (Flawed Project/Processes/Information)](https://github.com/systemic-flaws/dapp-platforms/issues/10)
-- [Fail: Substrate Framework (Flawed Project/Processes/Information)](https://github.com/systemic-flaws/dapp-platforms/issues/13)
+- [Fail: **Algorand** (Flawed Projects/Processes/Foundation/Inc.)](https://github.com/systemic-flaws/dapp-platforms/issues/8)
+- [Fail: **Solana** (Flawed Project/Processes/Information)](https://github.com/systemic-flaws/dapp-platforms/issues/9)
+- [Fail: **Avalanche** (Flawed Project/Processes/Information)](https://github.com/systemic-flaws/dapp-platforms/issues/10)
+- [Fail: **Substrate** Framework (Flawed Project/Processes/Information)](https://github.com/systemic-flaws/dapp-platforms/issues/13)
 
 ## Evaluation Context
 
